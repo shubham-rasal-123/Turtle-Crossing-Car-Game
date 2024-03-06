@@ -1,5 +1,5 @@
 # Turtle Crossing Car Game
-![image](turtle-scrossing-car.png)
+![image](turtle-crossing-car.png)
 
 ## About
 This project is a Mini-Game in Python, following OOP and using the Turtle module. The goal of this game is to help a turtle to cross the street.
